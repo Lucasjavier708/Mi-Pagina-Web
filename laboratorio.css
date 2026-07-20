@@ -94,6 +94,7 @@ body {
   margin-bottom: 1rem;
   background: linear-gradient(135deg, var(--neon-cyan), var(--neon-magenta));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 0 0 30px rgba(0, 217, 255, 0.3);
 }
@@ -119,6 +120,7 @@ body {
   text-align: center;
   background: linear-gradient(135deg, var(--neon-cyan), var(--neon-magenta));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
