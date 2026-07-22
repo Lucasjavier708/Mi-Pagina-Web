@@ -1,8 +1,8 @@
 // GALERÍA AUTOMÁTICA
 const galleryImages = [
-  './_DSC3268.JPG',
-  './_DSC3301.jpg',
-  './_DSC3271.jpg'
+  './lab_img1.JPG',
+  './lab_img2.jpg',
+  './lab_img3.jpg'
 ];
 
 let currentGalleryIndex = 0;

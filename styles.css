@@ -873,14 +873,14 @@ body {
 }
 
 .lab-slide:nth-child(2) {
-  background-image: url('./_DSC3301.png');
+  background-image: url('./lab_img3.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
 
 .lab-slide:nth-child(3) {
-  background-image: url('./_DSC3301.png');
+  background-image: url('./lab_img3.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
